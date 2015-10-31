@@ -1,6 +1,7 @@
 # jade-sass-gulp-starter-kit
 
 Demo for the Grand Tech Meetup 2015 at University of York
+
 Slides link: https://prezi.com/quy4jfolakb8/stop-using-html-css/
 
 How to install:
