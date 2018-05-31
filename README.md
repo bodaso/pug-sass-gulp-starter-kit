@@ -6,11 +6,23 @@ Slides link: https://prezi.com/quy4jfolakb8/stop-using-html-css/
 
 > Pug was formerly known as "Jade" but the project renamed itself, in the slides you will still see it being referred as Jade
 
-How to install:
-- Download ZIP file
-- Run $ npm install to install all the node_modules
+## Prerequisites:
 
-## Gulp Tasks:
+Node, NPM, Yarn
+
+## Quick Start:
+
+```
+git clone https://github.com/bodaz/pug-sass-gulp-starter-kit.git
+
+cd /pug-sass-gulp-starter-kit
+
+yarn
+```
+
+---
+
+## Included Gulp Tasks:
 
 **Pug**
 - Into HTML
